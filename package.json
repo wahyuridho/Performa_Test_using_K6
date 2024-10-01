@@ -1,0 +1,16 @@
+{
+  "name": "performa_test_using_k6",
+  "version": "1.0.0",
+  "description": "Project ini merupakan percobaan untuk melakukan performa test menggunakan framework K6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wahyu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/k6": "^0.54.0"
+  }
+}
